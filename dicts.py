@@ -6,7 +6,7 @@ def create_inventory(items):
     :return: dict - the inventory dictionary.
     """
     return {}
-
+ 
 
 def add_items(inventory, items):
     """Add or increment items in inventory using elements from the items `list`.
